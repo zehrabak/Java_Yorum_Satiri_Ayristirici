@@ -1,0 +1,3 @@
+// false yapılıyor
+// motor no getir
+// durum belirlenmesi //
